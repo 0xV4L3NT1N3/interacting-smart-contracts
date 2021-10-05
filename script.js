@@ -11,7 +11,7 @@ async function main() {
     const node = YOUR_NODE_URL;
     const provider = new ethers.providers.WebSocketProvider(node);
 
-    let privatekey = "fdfb72ce9754e3cbc1e79e44a8e20804cebd3c4a347605c6a3462a8de05b8784";
+    let privatekey = YOUR_PRIVATE_KEY;
     let wallet = new ethers.Wallet(privatekey, provider);
 
     console.log("Using wallet address " + wallet.address);

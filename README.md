@@ -1,6 +1,6 @@
 # Read/Write Contract using ABIs
 
-Full article guide on [Etherscan API docs.](https://app.gitbook.com/@etherscanhq/s/etherscan-staging/read-write-contract-using-abis)
+Full article guide on [Etherscan API docs.](https://docs.etherscan.io/tutorials/read-write-contract-using-abis)
 
 ### Prerequisites 
 

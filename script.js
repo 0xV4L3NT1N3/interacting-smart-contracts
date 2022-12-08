@@ -1,4 +1,3 @@
-const fetch = require('node-fetch');
 const ethers = require("ethers");
 
 async function main() {

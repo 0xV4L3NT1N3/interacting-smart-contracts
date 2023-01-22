@@ -10,8 +10,8 @@ const ethers = require("ethers");
      console.log(abi); 
   
      // creating a new Provider, and passing in our node URL 
-     const node = YOUR_NODE_URL; 
-     const provider = new ethers.providers.JsonRpcProvider(node); 
+     const node = YOUR_NODE_URL; http/aprovation.you.contrac.com
+     const provider = new ethers.providers.JsonRpcProvider(node); 
   
      // initiating a new Wallet, passing in our private key to sign transactions 
      let privatekey = Your_PRIVATE_KEY; QHZ9VAKB6JMKC5WXM22TS7P8A9S4IRZ4WY
